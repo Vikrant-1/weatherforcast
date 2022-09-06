@@ -1,0 +1,80 @@
+
+//   https://openweathermap.org/weather-conditions#Weather-Condition-Codes-2
+export const WeatherImage = [
+    {
+        key:'01d',
+        img:'https://tse1.mm.bing.net/th?id=OIP.IP7jobYVgwo5a559k7F3_gHaEK&pid=Api&P=0',
+    },
+    {
+        key:'01n',
+        img:'https://thumbor.thedailymeal.com/s7jDaX_IMPcExtQI7NAP7094xwU=/870x565/filters:format(webp)/https://www.theactivetimes.com/sites/default/files/slideshows/109049/113637/03_Clear_moon.jpg',
+    },
+    {
+        key:'02d',
+        img:'https://th.bing.com/th/id/R.c5103f9b58317e1f3f682b411f1c18a7?rik=TMpLQO0HsVwIQA&riu=http%3a%2f%2fwww.myfreetextures.com%2fwp-content%2fuploads%2f2014%2f10%2fsky2.jpg&ehk=5L%2fGUrYZkR79ElaT2XvfXee78gnCDFJY3lVmfdVSVkQ%3d&risl=&pid=ImgRaw&r=0',
+    },
+    {
+        key:'02n',
+        img:'https://tse3.mm.bing.net/th?id=OIP.wVVBnlgQH7rTj2qLMEegeAHaEK&pid=Api&P=0',
+    },
+    {
+        key:'03d',
+        img:'https://tse1.mm.bing.net/th?id=OIP.fo9GdHgXDmI_zMpvNriWmQHaFY&pid=Api&P=0',
+    },
+    {
+        key:'03n',
+        img:'https://tse3.mm.bing.net/th?id=OIP.wVVBnlgQH7rTj2qLMEegeAHaEK&pid=Api&P=0',
+    },
+
+    {
+        key:'04d',
+        img:'https://tse4.mm.bing.net/th?id=OIP.WN5l4IwV5AFiYpisIhA4hQHaE6&pid=Api&P=0',
+    },
+    {
+        key:'04n',
+        img:'https://tse4.mm.bing.net/th?id=OIP.mzT3IbXXjT9WCgiFz6p--gHaE6&pid=Api&P=0',
+    },
+    {
+        key:'50d',
+        img:'https://tse1.mm.bing.net/th?id=OIP.8fQ35_brjHzjZTMQMbLnGgHaEK&pid=Api&P=0',
+    },
+    {
+        key:'50n',
+        img:'https://tse4.mm.bing.net/th?id=OIP.uNJN6nubu0Mvxnt7dhXwVwHaE8&pid=Api&P=0',
+    },
+    {
+        key:'09d',
+        img:'https://tse3.mm.bing.net/th?id=OIP.R6WPirSCm6jNt7yc2ewa8AAAAA&pid=Api&P=0',
+    },
+    {
+        key:'09n',
+        img:'https://tse2.mm.bing.net/th?id=OIP.U1PSQ5_gDU457_A_hvQ_IwHaEL&pid=Api&P=0',
+    },
+    {
+        key:'10d',
+        img:'https://tse3.mm.bing.net/th?id=OIP.zCHotzSCiq681XMsBVP4pwHaHa&pid=Api&P=0',
+    },
+    {
+        key:'10n',
+        img:'https://tse3.mm.bing.net/th?id=OIP.3n_vtL4dAL_94MCa7ImCtwHaEE&pid=Api&P=0',
+    },
+    {
+        key:'11d',
+        img:'https://tse2.mm.bing.net/th?id=OIP.W4_niOsKcsZpXJKKfHry7AHaEN&pid=Api&P=0',
+    },
+    {
+        key:'11n',
+        img:'https://tse1.mm.bing.net/th?id=OIP.9cQfP8bFSetB0B8g4DWhOgHaE7&pid=Api&P=0',
+    },
+    {
+        key:'13d',
+        img:'https://tse2.mm.bing.net/th?id=OIP.9tHWmZ0k2uSabKV0KKYIKAHaE7&pid=Api&P=0',
+    },
+    {
+        key:'13n',
+        img:'https://tse2.mm.bing.net/th?id=OIP.ulthO2JeEBMoT1iJQ81uFQHaEe&pid=Api&P=0',
+    },
+  
+    
+
+]
